@@ -14,3 +14,4 @@ what's up
 how are you?
 >>>>>>> eed65059f3017c0980c9a3802cff970caac6b6fc
 add line
+new branch line
