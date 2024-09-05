@@ -1,7 +1,6 @@
 testing line update
 untesting line
 what's up
-ы
 привет
 <<<<<<< HEAD
 
@@ -15,3 +14,4 @@ how are you?
 >>>>>>> eed65059f3017c0980c9a3802cff970caac6b6fc
 add line
 new branch line
+new line for gui
