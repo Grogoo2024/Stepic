@@ -7,4 +7,8 @@ string
 пока.
 =======
 здрасти
+<<<<<<< HEAD
 >>>>>>> 5e2e67590f8b0fa2e6a5d4ce17b5fd4e0972882a
+=======
+how are you?
+>>>>>>> eed65059f3017c0980c9a3802cff970caac6b6fc
